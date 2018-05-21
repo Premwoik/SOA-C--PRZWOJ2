@@ -1,0 +1,15 @@
+C:\Users\Przemek\source\repos\SOA-kolos-PRZWOJ\OldfactoryPRZWOJ\OldfactoryPRZWOJ\obj\Debug\OldfactoryPRZWOJ.csprojAssemblyReference.cache
+C:\Users\Przemek\source\repos\SOA-kolos-PRZWOJ\OldfactoryPRZWOJ\OldfactoryPRZWOJ\obj\Debug\OldfactoryPRZWOJ.csproj.CoreCompileInputs.cache
+C:\Users\Przemek\source\repos\SOA-kolos-PRZWOJ\OldfactoryPRZWOJ\OldfactoryPRZWOJ\bin\OldfactoryPRZWOJ.dll.config
+C:\Users\Przemek\source\repos\SOA-kolos-PRZWOJ\OldfactoryPRZWOJ\OldfactoryPRZWOJ\bin\OldfactoryPRZWOJ.dll
+C:\Users\Przemek\source\repos\SOA-kolos-PRZWOJ\OldfactoryPRZWOJ\OldfactoryPRZWOJ\bin\OldfactoryPRZWOJ.pdb
+C:\Users\Przemek\source\repos\SOA-kolos-PRZWOJ\OldfactoryPRZWOJ\OldfactoryPRZWOJ\obj\Debug\OldfactoryPRZWOJ.dll
+C:\Users\Przemek\source\repos\SOA-kolos-PRZWOJ\OldfactoryPRZWOJ\OldfactoryPRZWOJ\obj\Debug\OldfactoryPRZWOJ.pdb
+C:\Users\Przemek\source\repos\SOA-kolos-PRZWOJ\OldfactoryPRZWOJ\OldfactoryPRZWOJ\bin\ModelsPRZWOJ.dll
+C:\Users\Przemek\source\repos\SOA-kolos-PRZWOJ\OldfactoryPRZWOJ\OldfactoryPRZWOJ\bin\ModelWcfPRZWOJ.dll
+C:\Users\Przemek\source\repos\SOA-kolos-PRZWOJ\OldfactoryPRZWOJ\OldfactoryPRZWOJ\bin\LiteDB.dll
+C:\Users\Przemek\source\repos\SOA-kolos-PRZWOJ\OldfactoryPRZWOJ\OldfactoryPRZWOJ\bin\ModelsPRZWOJ.pdb
+C:\Users\Przemek\source\repos\SOA-kolos-PRZWOJ\OldfactoryPRZWOJ\OldfactoryPRZWOJ\bin\ModelWcfPRZWOJ.pdb
+C:\Users\Przemek\source\repos\SOA-kolos-PRZWOJ\OldfactoryPRZWOJ\OldfactoryPRZWOJ\bin\ModelWcfPRZWOJ.dll.config
+C:\Users\Przemek\source\repos\SOA-kolos-PRZWOJ\OldfactoryPRZWOJ\OldfactoryPRZWOJ\bin\LiteDB.xml
+C:\Users\Przemek\source\repos\SOA-kolos-PRZWOJ\OldfactoryPRZWOJ\OldfactoryPRZWOJ\obj\Debug\OldfactoryPRZWOJ.csproj.CopyComplete

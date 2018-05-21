@@ -1,0 +1,2 @@
+C:\Users\Przemek\source\repos\SOA-kolos-PRZWOJ\OldfactoryPRZWOJ\WcfModelPRZWOJ\obj\Debug\WcfModelPRZWOJ.csprojAssemblyReference.cache
+C:\Users\Przemek\source\repos\SOA-kolos-PRZWOJ\OldfactoryPRZWOJ\WcfModelPRZWOJ\obj\Debug\WcfModelPRZWOJ.csproj.CoreCompileInputs.cache

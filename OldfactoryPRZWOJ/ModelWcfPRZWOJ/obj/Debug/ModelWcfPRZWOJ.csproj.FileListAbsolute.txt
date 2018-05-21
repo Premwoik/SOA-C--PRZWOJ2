@@ -1,0 +1,7 @@
+C:\Users\Przemek\source\repos\SOA-kolos-PRZWOJ\OldfactoryPRZWOJ\ModelWcfPRZWOJ\bin\Debug\ModelWcfPRZWOJ.dll.config
+C:\Users\Przemek\source\repos\SOA-kolos-PRZWOJ\OldfactoryPRZWOJ\ModelWcfPRZWOJ\bin\Debug\ModelWcfPRZWOJ.dll
+C:\Users\Przemek\source\repos\SOA-kolos-PRZWOJ\OldfactoryPRZWOJ\ModelWcfPRZWOJ\bin\Debug\ModelWcfPRZWOJ.pdb
+C:\Users\Przemek\source\repos\SOA-kolos-PRZWOJ\OldfactoryPRZWOJ\ModelWcfPRZWOJ\obj\Debug\ModelWcfPRZWOJ.csprojAssemblyReference.cache
+C:\Users\Przemek\source\repos\SOA-kolos-PRZWOJ\OldfactoryPRZWOJ\ModelWcfPRZWOJ\obj\Debug\ModelWcfPRZWOJ.csproj.CoreCompileInputs.cache
+C:\Users\Przemek\source\repos\SOA-kolos-PRZWOJ\OldfactoryPRZWOJ\ModelWcfPRZWOJ\obj\Debug\ModelWcfPRZWOJ.dll
+C:\Users\Przemek\source\repos\SOA-kolos-PRZWOJ\OldfactoryPRZWOJ\ModelWcfPRZWOJ\obj\Debug\ModelWcfPRZWOJ.pdb
